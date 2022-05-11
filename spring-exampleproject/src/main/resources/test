@@ -1,0 +1,32 @@
+customerRepository.save(new Customer(1, "Berke", "Sharrard",        LocalDate.of(2000, 03, 23), "Canada"", p5));
+customerRepository.save(new Customer(2, "Gaston", "Ottiwill",       LocalDate.of(2001, 03, 15), "Italy", p1));
+customerRepository.save(new Customer(3, "Mabel", "Dunrige",         LocalDate.of(2000, 07, 18), "Austria", p3));
+customerRepository.save(new Customer(4, "Karalynn", "Marlow",       LocalDate.of(2000, 09, 02), "Canada", p3));
+customerRepository.save(new Customer(5, "Florence", "Coysh",        LocalDate.of(2000, 04, 04), "Germany, p2));
+customerRepository.save(new Customer(6, "Kimberlee", "Lambe",       LocalDate.of(2000, 12, 29), "Germany, p5));
+customerRepository.save(new Customer(7, "Laina", "Holyland",        LocalDate.of(2000, 05, 10), "USA", p4));
+customerRepository.save(new Customer(8, "Hallie", "Macklin",        LocalDate.of(2000, 02, 03), "Japan", p3));
+customerRepository.save(new Customer(9, "Ailina", "Leglise",        LocalDate.of(2001, 01, 22), "Italy", p2));
+customerRepository.save(new Customer(10, "Bryon", "Duchasteau",     LocalDate.of(2001, 01, 02), "Germany, p4));
+customerRepository.save(new Customer(11, "Alie", "Pitkin",          LocalDate.of(2000, 04, 08), "Germany, p3));
+customerRepository.save(new Customer(12, "Loralie", "Norster",      LocalDate.of(2000, 01, 18), "Japan", p5));
+customerRepository.save(new Customer(13, "Port", "Knevet",          LocalDate.of(2001, 11, 01), "USA", p4));
+customerRepository.save(new Customer(14, "Leonelle", "McGrory",     LocalDate.of(2001, 01, 11), "Japan", p5));
+customerRepository.save(new Customer(15, "Andriana", "Berggren",    LocalDate.of(2000, 02, 29), "Italy", p3));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
